@@ -1,0 +1,22 @@
+.header {
+  text-align: center;
+}
+
+#btn {
+  text-align: center;
+  color: white;
+  padding: 10px 0px;
+  margin: 0px 2px;
+  background-color: black;
+}
+#operations {
+  background-color: orange;
+  color: black;
+  padding: 10px 0px;
+
+  margin: 0px 2px;
+
+  text-align: center;
+
+  font-size: x-large;
+}
